@@ -1,0 +1,2 @@
+Based on what I read, coding HTML emails is so hard because there are no standards, and you have to forget everything you know about web coding in order to successfully code emails. 
+Starting with the structure, testing/validating often are ways to work around the limitations of HTML in emails.
